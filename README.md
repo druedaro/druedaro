@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @druedaro
-- 👀 I’m interested in front end develop
+- 👀 I’m interested in front-end develop
 - 🌱 I’m currently learning JS + React
 - 💞️ I’m looking to collaborate on Barcelona Activa
 - 📫 How to reach me: md
