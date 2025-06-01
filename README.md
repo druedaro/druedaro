@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @druedaro
-- 👀 I’m interested in front-end develop
-- 🌱 I’m currently learning JS + React
-- 💞️ I’m looking to collaborate on Barcelona Activa
-- 📫 How to reach me: md
-- 😄 Pronouns: He
-- ⚡ Fun fact: Gymrat since 97 🏋🏼‍♂️
+## **👋 Hi there! I'm David Rueda Rosas**
 
-<!---
-druedaro/druedaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a **Frontend Developer specializing in React**, with a strong passion for creating **intuitive and modern user interfaces**. Continuous learning is my driving force 🚀 and I enjoy building responsive and accessible web applications.
+
+### **🎯 About Me**
+I'm a passionate developer who believes in writing clean, maintainable code and creating exceptional user experiences. Currently focused on mastering React and modern frontend technologies, I enjoy tackling complex problems and turning ideas into interactive web applications.
+
+### **⚡ Tech Stack**
+- **Frontend:** React (my specialty 💙), HTML5, CSS3, JavaScript ES6+, TypeScript
+- **Styling:** Tailwind CSS, Bootstrap
+- **Tools:** Git, 
+
+### **📚 Currently Studying**
+I'm taking the **Frontend Bootcamp at Barcelona Activa**, where I'm deepening my React skills and learning modern frontend development best practices. Learning something new every day! 🎓
+
+### **🎮 Fun Facts**
+Tech enthusiast 💻, I love exploring new frameworks and I'm always looking for interesting projects to collaborate on.
+
+### **🔍 Looking for Opportunities**
+I'm open to **new job opportunities** where I can grow as a frontend developer, especially working with React. I'm seeking an environment where I can continue learning and contribute my enthusiasm for clean code and best practices. 💼 *If you think I could be a great fit for your team, let's talk!*
+
+### **📱 Let's Connect**
+- 💼 LinkedIn: [linkedin.com/in/david-rueda-rosas](https://linkedin.com/in/david-rueda-rosas)
+
+---
+
+✨ *Thanks for visiting my profile! If you have any interesting projects or want to collaborate, I'd be happy to hear from you.*
