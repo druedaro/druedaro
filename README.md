@@ -20,7 +20,8 @@ Tech enthusiast 💻, I love exploring new frameworks and I'm always looking for
 I'm open to **new job opportunities** where I can grow as a frontend developer, especially working with React. I'm seeking an environment where I can continue learning and contribute my enthusiasm for clean code and best practices. 💼 *If you think I could be a great fit for your team, let's talk!*
 
 ### **📱 Let's Connect**
-- 💼 LinkedIn: [linkedin.com/in/david-rueda-rosas](https://linkedin.com/in/david-rueda-rosas)
+- 💼 LinkedIn: <a href="[https://example.com](https://linkedin.com/in/david-rueda-rosas)" target="_blank" rel="noopener noreferrer">linkedin.com/in/david-rueda-rosas</a>
+
 
 ---
 
