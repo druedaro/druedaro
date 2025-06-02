@@ -8,7 +8,7 @@ I'm a passionate developer who believes in writing clean, maintainable code and 
 ### **⚡ Tech Stack**
 - **Frontend:** React (my specialty 💙), HTML5, CSS3, JavaScript ES6+, TypeScript
 - **Styling:** Tailwind CSS, Bootstrap
-- **Tools:** Git, 
+- **Tools:** Git, GitHub
 
 ### **📚 Currently Studying**
 I'm taking the **Frontend Bootcamp at Barcelona Activa**, where I'm deepening my frontend skills and learning modern frontend development best practices. Learning something new every day! 🎓
