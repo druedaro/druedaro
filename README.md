@@ -1,4 +1,4 @@
-## **👋 Hi there! I'm David Rueda Rosas**
+## **👋 Hi there! I'm David Rueda**
 
 Welcome to my GitHub profile! I'm a **Frontend Developer specializing in React**, with a strong passion for creating **intuitive and modern user interfaces**. Continuous learning is my driving force 🚀 and I enjoy building responsive, user-centered and SEO web experiences.
 
