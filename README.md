@@ -1,4 +1,4 @@
-## ** Hi there! I'm David Rueda 👋**
+## **Hi there! I'm David Rueda 👋**
 
 Welcome to my GitHub profile! I'm a **Frontend Developer specializing in React**, with a strong passion for creating **intuitive and modern user interfaces**. Continuous learning is my driving force 🚀 and I enjoy building responsive, user-centered and SEO web experiences.
 
@@ -55,7 +55,7 @@ I'm taking the **Frontend Bootcamp at Barcelona Activa**, where I'm deepening my
 Tech lover 💻, gym enthusiast 🏋️‍♂️, curious mind always building things 👨‍💻, and a proud completionist when it comes to video games 🎮.
 
 ### **Looking for Opportunities**
-I'm open to **new job opportunities** where I can grow as a frontend developer, especially working with React. I'm seeking an environment where I can continue learning and contribute my enthusiasm for clean code and best practices. 💼*If you think I could be a great fit for your team, let's talk!*
+I'm open to **new job opportunities** where I can grow as a frontend developer, especially working with React. I'm seeking an environment where I can continue learning and contribute my enthusiasm for clean code and best practices. *If you think I could be a great fit for your team, let's talk!*
 
 ### **📱 Let's Connect**
 - LinkedIn: <a href="https://linkedin.com/in/david-rueda-rosas" target="_blank" rel="noopener noreferrer">linkedin.com/in/david-rueda-rosas</a>
