@@ -1,8 +1,8 @@
-## **👋 Hi there! I'm David Rueda**
+## ** Hi there! I'm David Rueda 👋**
 
 Welcome to my GitHub profile! I'm a **Frontend Developer specializing in React**, with a strong passion for creating **intuitive and modern user interfaces**. Continuous learning is my driving force 🚀 and I enjoy building responsive, user-centered and SEO web experiences.
 
-### **🎯 About Me**
+### **About Me**
 I'm a passionate developer who believes in writing clean, maintainable code and creating exceptional user experiences. Currently focused on mastering React and modern frontend technologies, I enjoy tackling complex problems and turning ideas into interactive web applications.
 
 ### **⚡ Tech Stack**
@@ -48,17 +48,17 @@ I'm a passionate developer who believes in writing clean, maintainable code and 
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white) ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 
 
-### **📚 Currently Studying**
+### **Currently Studying**
 I'm taking the **Frontend Bootcamp at Barcelona Activa**, where I'm deepening my frontend skills and learning modern frontend development best practices. Learning something new every day! 🎓
 
-### **🎮 Fun Facts**
+### **Fun Facts 🎮**
 Tech lover 💻, gym enthusiast 🏋️‍♂️, curious mind always building things 👨‍💻, and a proud completionist when it comes to video games 🎮.
 
-### **🔍 Looking for Opportunities**
-I'm open to **new job opportunities** where I can grow as a frontend developer, especially working with React. I'm seeking an environment where I can continue learning and contribute my enthusiasm for clean code and best practices. 💼 *If you think I could be a great fit for your team, let's talk!*
+### **Looking for Opportunities**
+I'm open to **new job opportunities** where I can grow as a frontend developer, especially working with React. I'm seeking an environment where I can continue learning and contribute my enthusiasm for clean code and best practices. 💼*If you think I could be a great fit for your team, let's talk!*
 
 ### **📱 Let's Connect**
-- 💼 LinkedIn: <a href="https://linkedin.com/in/david-rueda-rosas" target="_blank" rel="noopener noreferrer">linkedin.com/in/david-rueda-rosas</a>
+- LinkedIn: <a href="https://linkedin.com/in/david-rueda-rosas" target="_blank" rel="noopener noreferrer">linkedin.com/in/david-rueda-rosas</a>
 
 
 ---
